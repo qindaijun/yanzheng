@@ -31,4 +31,5 @@
 
 ###
 [百度](http://www.baidu.com)
-
+插入一张工作日志图片
+![工作日志](https://gitee.com/qindaijun/pic/raw/master/20200616gzrz.png)
